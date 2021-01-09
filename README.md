@@ -1,5 +1,5 @@
 # Geometry_Wars
-This is a project for C++ practice. It is a shooting game with geometric elements as the theme developed using VS2017.
+This is a project for course *C++ Program Development Training*. It is a shooting game with geometric elements as the theme developed using VS2017.
 
 ## Requirements
 - Windows system
